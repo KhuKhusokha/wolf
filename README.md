@@ -25,5 +25,8 @@ A powerful SEO toolkit powered by AI, featuring keyword generation, meta tag opt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/khukhusokha/wolf.git
+   cd wolf.git
+   pip install -r requiurements.txt
+   streamlit run streamlit_app.py 
+
